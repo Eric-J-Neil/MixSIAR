@@ -6,7 +6,7 @@ Files contain organized sample data from Nisbet Provincial Forest, Saskatchewan,
 MixSIAR simulations were performed for comparison to the PRIME model (https://github.com/Eric-J-Neil/PRIME-Model.git).
 
 # Inquiries
-For further information about the PRIME model, please contact:
+For further information, please contact:
 
 Eric Neil
 
